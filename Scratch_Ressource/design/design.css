@@ -1,0 +1,42 @@
+#lcont
+{
+	display: flex;
+	flex-direction: row;
+	padding: 12px;
+}
+.lcont2
+{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+.lcont3
+{
+	display: flex;
+	flex-direction: column;
+}
+.logo
+{
+	display: flex;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+	background-color: rgba(0,0,0,0.4);
+	border-radius: 12px;
+	border-width: 4px;
+	width: 60px;
+	margin: 8px;
+	padding: 4px;
+}
+.pretext
+{
+	border: 0px 0px black;
+	width: 40%;
+	padding: 8px;
+}
+body
+{
+	background-color: rgba(247,247,247);
+}
+h1
+{
+	margin: 8px;
+}
